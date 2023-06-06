@@ -1,8 +1,5 @@
 # Memory-Management
 
-- Name: Jiashu Chen
-- Repository URL: https://github.com/Jiashu2000/Memory-Management.git
-
 ## Table of Contents
 - Data Structure
 - Freelist Features
@@ -39,6 +36,3 @@ There are two main funtions manipulating the freelist to achieve memory manageme
 -  the bench program finished 10000 ntrials in 0.006341 seconds. The minimum malloc() request is 8000 and the split threshold is 240.
 -  the bench program finished 10000 ntrials in 0.005567 seconds. The minimum malloc() request is 8000 and the split threshold is 160.
 -  Overall, it seems that setting the minimum malloc() size at 4000 and split threshold at 160 is slightly better.
-
-## Resources
-- CSE374 Course materials
